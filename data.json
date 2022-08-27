@@ -1,1659 +1,1247 @@
 {
    "Finland": {
       "region": "Europe",
-      "language": {
-         "fin": "Finnish",
-         "swe": "Swedish"
-      }
+      "language": "sha1$w84M2gP1r3PPa5d1$40a8f6279746dc8e6bf9ff3ece76863cbf1d5939",
+      "time": "0.000123"
    },
    "Guatemala": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$VOLulVVq5iBpVKCS$64c91da4c7a0cc5d7b56a729024596129019afde",
+      "time": "0.000077"
    },
    "Chile": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$5vQRsLBOOPySaMnS$839264255a15ba567df738d0492b6948763f4f39",
+      "time": "0.000067"
    },
    "Uruguay": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$aC7FO4t4VEZkSPly$4999f45f967226817553dcb9cf0d07f87ddffd8a",
+      "time": "0.000067"
    },
    "Kyrgyzstan": {
       "region": "Asia",
-      "language": {
-         "kir": "Kyrgyz",
-         "rus": "Russian"
-      }
+      "language": "sha1$sIbF1JqEQQ6HizLf$ff44e387a99a84ec615cc13f7d8574c163364530",
+      "time": "0.000067"
    },
    "Zambia": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$xPgqYN5uZ4W2kk11$c0e4af7d36f0ab105bbdca41585998fbbde4087d",
+      "time": "0.000065"
    },
    "Niue": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "niu": "Niuean"
-      }
+      "language": "sha1$WfYOdobz5MH9NPpy$ce3ff1e33528299f153614d8be21a1cfb9592a87",
+      "time": "0.000076"
    },
    "Austria": {
       "region": "Europe",
-      "language": {
-         "bar": "Austro-Bavarian German"
-      }
+      "language": "sha1$obZ73mYKlvvVXfzU$592ea83f68520fcbeaba8f0b6f6828c66136529e",
+      "time": "0.000066"
    },
    "Georgia": {
       "region": "Asia",
-      "language": {
-         "kat": "Georgian"
-      }
+      "language": "sha1$b7q4Q0FBpmH5AcsP$2fee1893816e47599ec4aaff298ac33a5f9e81d3",
+      "time": "0.000065"
    },
    "Trinidad and Tobago": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$XLXVCyeKEaFJx9FO$b91a6eef3c60d4b387fb1b04853b25d11b8b5a50",
+      "time": "0.000073"
    },
    "South Korea": {
       "region": "Asia",
-      "language": {
-         "kor": "Korean"
-      }
+      "language": "sha1$VriJkJKvrIoJC4my$b2285e5fd8c09cc467e0e15748e62ced56271d68",
+      "time": "0.000065"
    },
    "United States Minor Outlying Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$LvOeGwmz02nkLbtc$d12d4fc7fecebc855e35aceca8ef0334de1cfad0",
+      "time": "0.000066"
    },
    "French Guiana": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$1pISw6P7ewMyW6sN$7d016a14c6e4b939608792cdd4f18bbaaacae391",
+      "time": "0.000069"
    },
    "Mali": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$6zqgHk9y5KBPrMhv$44306b6d79aab28666ef645ab798aab17560ff24",
+      "time": "0.000067"
    },
    "North Macedonia": {
       "region": "Europe",
-      "language": {
-         "mkd": "Macedonian"
-      }
+      "language": "sha1$YUf7vqEpFxggNugQ$f4efe931ffda4c21502131da85ecb5b2b05b0c8a",
+      "time": "0.000066"
    },
    "Fiji": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "fij": "Fijian",
-         "hif": "Fiji Hindi"
-      }
+      "language": "sha1$3QBgeaURA10RlBFA$9a7093a46744e9c3ceafb853cbf7087fcf5488fe",
+      "time": "0.000067"
    },
    "Madagascar": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "mlg": "Malagasy"
-      }
+      "language": "sha1$BdgWDwZAqmH3zkAf$23aa681c5e4f48ed6672ca9dca43e2dd71cc4846",
+      "time": "0.000069"
    },
    "Dominica": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$Cw4XeT9CitgtNu7L$618af2d3011d6e8dea79897a0e99fb47e46baa7b",
+      "time": "0.000066"
    },
    "Nauru": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "nau": "Nauru"
-      }
+      "language": "sha1$WeMFUwSUlM90CaiP$f707a251b79d55c2df789b554c85c3e666d8244e",
+      "time": "0.000070"
    },
    "Costa Rica": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$lSn4Yfwv1m4J9Ceh$cbb9e8db0a4217078fe5ea07294994cc22c07364",
+      "time": "0.000067"
    },
    "Palau": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "pau": "Palauan"
-      }
+      "language": "sha1$9N06AenLVBDDYggE$193bc90cd266cb13fb258f9ae9bc29187f5beeb1",
+      "time": "0.000061"
    },
    "Algeria": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$Dg7mOGHJojCtvjhV$4c67b07ff29e0b9b5f0a101938928ef823f358c0",
+      "time": "0.000064"
    },
    "Nicaragua": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$T4EQWlcxykK4UTLS$0a3a7bf7407c5c8a0bea7337d307503813e0fc34",
+      "time": "0.000074"
    },
    "Zimbabwe": {
       "region": "Africa",
-      "language": {
-         "bwg": "Chibarwe",
-         "eng": "English",
-         "kck": "Kalanga",
-         "khi": "Khoisan",
-         "ndc": "Ndau",
-         "nde": "Northern Ndebele",
-         "nya": "Chewa",
-         "sna": "Shona",
-         "sot": "Sotho",
-         "toi": "Tonga",
-         "tsn": "Tswana",
-         "tso": "Tsonga",
-         "ven": "Venda",
-         "xho": "Xhosa",
-         "zib": "Zimbabwean Sign Language"
-      }
+      "language": "sha1$EVSA72otmWJ2PdwU$5b66a0611eedd468cdd12bb9e56678dc6b411335",
+      "time": "0.000068"
    },
    "Rwanda": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "fra": "French",
-         "kin": "Kinyarwanda"
-      }
+      "language": "sha1$wxCWKh2NQqOKsAS5$4d8956625939fcefbc4f90475295cd8a4c4b132e",
+      "time": "0.000071"
    },
    "Turkey": {
       "region": "Asia",
-      "language": {
-         "tur": "Turkish"
-      }
+      "language": "sha1$arDOY9tX3Rz8Xwsg$5fa53bfd02432f5d5b1859e9b68afc045b650ece",
+      "time": "0.000061"
    },
    "Monaco": {
       "region": "Europe",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$Yq2WQVpFAq0cr5Ll$5f290af00acc26389efb089a0761efd37a90c473",
+      "time": "0.000067"
    },
    "Tajikistan": {
       "region": "Asia",
-      "language": {
-         "rus": "Russian",
-         "tgk": "Tajik"
-      }
+      "language": "sha1$3PUAoFBrLlTuC6iG$b59ab11eb596c53ed5b95a8a5479da22bbd3b6ed",
+      "time": "0.000064"
    },
    "Cocos (Keeling) Islands": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$uZH9gMunzln3ZA3v$5c22ded44a644086c444469683f01d530cdd8cd3",
+      "time": "0.000064"
    },
    "Jamaica": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "jam": "Jamaican Patois"
-      }
+      "language": "sha1$xYywBfHCtkyUAa8t$b0e56191489cf591555ccdf493f1ac8ef916fd0d",
+      "time": "0.000061"
    },
    "Latvia": {
       "region": "Europe",
-      "language": {
-         "lav": "Latvian"
-      }
+      "language": "sha1$uu1oRwd72wZOy2HM$ae34a4d00fd30eb6905c011e71d1a3d7ff32f946",
+      "time": "0.000061"
    },
    "Saint Helena, Ascension and Tristan da Cunha": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$VJ8fNMH68Ebm69Ke$e07db98bc42eb71bf57521fe30054b459133afc2",
+      "time": "0.000061"
    },
    "Aruba": {
       "region": "Americas",
-      "language": {
-         "nld": "Dutch",
-         "pap": "Papiamento"
-      }
+      "language": "sha1$pbYsAupsLk88gVp0$88f0c5957335cf25fb900a12c33db76b946c5803",
+      "time": "0.000068"
    },
    "Pakistan": {
       "region": "Asia",
-      "language": {
-         "eng": "English",
-         "urd": "Urdu"
-      }
+      "language": "sha1$FnkbsGWXZNne6JUH$af783d58798a71c0caed005569024bee58f7e817",
+      "time": "0.000062"
    },
    "Belarus": {
       "region": "Europe",
-      "language": {
-         "bel": "Belarusian",
-         "rus": "Russian"
-      }
+      "language": "sha1$wvrb9MKWZOkE6N18$76244136d887511fee5211a85986067c23e34b21",
+      "time": "0.000061"
    },
    "Solomon Islands": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$zfUApZNCQYXYD4Wa$1905af66dc34180eab014284b677565ebf5bf3df",
+      "time": "0.000062"
    },
    "Eswatini": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "ssw": "Swazi"
-      }
+      "language": "sha1$qpdwb2axA15g6kkG$fe56279fc3ff6965db7200d9d876264dec106ee7",
+      "time": "0.000063"
    },
    "New Caledonia": {
       "region": "Oceania",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$2xkO052xy46KBvVd$c4d0c27e781f18b9549c9a9a52633cd7785ee732",
+      "time": "0.000061"
    },
    "Mexico": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$kJOcQw8GFqgseALl$f631a0a1e21cb6aef39248857dd21469ac9e4438",
+      "time": "0.000064"
    },
    "Guernsey": {
       "region": "Europe",
-      "language": {
-         "eng": "English",
-         "fra": "French",
-         "nfr": "Guern\u00e9siais"
-      }
+      "language": "sha1$SQngYCpYoeplwvfg$6fb5f9ce6fb6e213b5c14e951c09f65c0055c6d5",
+      "time": "0.000072"
    },
    "Liechtenstein": {
       "region": "Europe",
-      "language": {
-         "deu": "German"
-      }
+      "language": "sha1$CkSct92jus0nhWha$415dc7e11e9468bfba5e52c08c613a769293cfde",
+      "time": "0.000064"
    },
    "Botswana": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "tsn": "Tswana"
-      }
+      "language": "sha1$F65uyJV0slHzRoMc$846e9d1d2b9a3b9f53e6ccc79c2682d6ed420035",
+      "time": "0.000064"
    },
    "Saint Vincent and the Grenadines": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$eneQXlYjRHMrZdFu$c66fadb1302bfdf0981f79ea703dc4b72a7635a1",
+      "time": "0.000061"
    },
    "\u00c5land Islands": {
       "region": "Europe",
-      "language": {
-         "swe": "Swedish"
-      }
+      "language": "sha1$5EydVK7xdiXhtjO8$6be9755dafc7efd506daab7140fa95bb22195e9d",
+      "time": "0.000061"
    },
    "Israel": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic",
-         "heb": "Hebrew"
-      }
+      "language": "sha1$ze9a9y5NqizbFIx1$1005f0adc112890751df9dd2f54b1c1004619b0a",
+      "time": "0.000064"
    },
    "Guinea": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$UcLMmG4mMMN2aJQg$c6d91bf6a9daec731040801b9511e156453c8842",
+      "time": "0.000061"
    },
    "North Korea": {
       "region": "Asia",
-      "language": {
-         "kor": "Korean"
-      }
+      "language": "sha1$eGJkRCGaEG9o1vov$fd592d2655d271f77eb11165e8996d27cb50f5da",
+      "time": "0.000067"
    },
    "Philippines": {
       "region": "Asia",
-      "language": {
-         "eng": "English",
-         "fil": "Filipino"
-      }
+      "language": "sha1$u1Kr2JcLRjrkyz6U$3547fd15a769831815fc13efc2d11b4b8d34ff7e",
+      "time": "0.000068"
    },
    "Guadeloupe": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$AhB0BiVzEF9TcTh1$c082424f78b649dd453505c8999a1dbbc1db81e4",
+      "time": "0.000090"
    },
    "Tunisia": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$4UhuNFjhd5R04o0e$664548b97d583a54c0a757d9ea6ae591f793d342",
+      "time": "0.000062"
    },
    "Central African Republic": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "sag": "Sango"
-      }
+      "language": "sha1$vUeqDbach1k8jVfg$038793ae07ee058cfa6c39c50fa53067149e7009",
+      "time": "0.000061"
    },
    "Nigeria": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$1eag0uTAdRgd7TP6$0754af4a1d69934f8d19774f202d96fca583559f",
+      "time": "0.000061"
    },
    "Greece": {
       "region": "Europe",
-      "language": {
-         "ell": "Greek"
-      }
+      "language": "sha1$iyM1pb1RAqsxvXWN$47497099c72650b4b94e063935299dc15f96ff1d",
+      "time": "0.000067"
    },
    "Jersey": {
       "region": "Europe",
-      "language": {
-         "eng": "English",
-         "fra": "French",
-         "nrf": "J\u00e8rriais"
-      }
+      "language": "sha1$tI0UE7ZAI7TuQAn5$f045e868cfda734e0ecb76eac92042d5d66d1ef0",
+      "time": "0.000068"
    },
    "Palestine": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$ZEXHXbnUbqYqn28p$fa5629b8408f0f7d33abc4fd73ac68819ff5f65e",
+      "time": "0.000061"
    },
    "Ivory Coast": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$IVvlJpbgOMfZ4gzn$da3626f742797aafd429b14bc07fc02ac0f90f07",
+      "time": "0.000065"
    },
    "Northern Mariana Islands": {
       "region": "Oceania",
-      "language": {
-         "cal": "Carolinian",
-         "cha": "Chamorro",
-         "eng": "English"
-      }
+      "language": "sha1$cCDvyr5ifLFEqQPU$751a37a1a0038672a224e591f573ad0c4d37e49d",
+      "time": "0.000061"
    },
    "Comoros": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "fra": "French",
-         "zdj": "Comorian"
-      }
+      "language": "sha1$Je4hwJ9ll7pwcnQ2$f89b629f7e2337938b2170dbfdfaab9f1b1f2a74",
+      "time": "0.000061"
    },
    "Togo": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$lMm1psjLoV15LqvV$b326fe373ba2923bddda2ed7143aa2e68feae84e",
+      "time": "0.000061"
    },
    "Lesotho": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "sot": "Sotho"
-      }
+      "language": "sha1$gpo8Z5DEHoOZXK2N$7cd616d9981098ca22b49a32d2d5aa3c1d7b154c",
+      "time": "0.000061"
    },
    "United States Virgin Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$gyqHKpmVxFdHkCLI$2f79e98720ccd11a728879f46ef870c9e3beff8b",
+      "time": "0.000061"
    },
    "Saint Kitts and Nevis": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$zB8rxYDidqBzh2zX$0659d7cb6ad6f337dd09a4af098aa0003cef09b6",
+      "time": "0.000062"
    },
    "Marshall Islands": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "mah": "Marshallese"
-      }
+      "language": "sha1$9wrP5ZnO9Gf5yJwp$bd59bbd4d3c2decd9e9f405ab01f7680a67e8d86",
+      "time": "0.000061"
    },
    "Equatorial Guinea": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "por": "Portuguese",
-         "spa": "Spanish"
-      }
+      "language": "sha1$9NnMEDJhHZGZunfF$b3e09d00e67c85a106477412aeacc4379b8cc3fe",
+      "time": "0.000061"
    },
    "Indonesia": {
       "region": "Asia",
-      "language": {
-         "ind": "Indonesian"
-      }
+      "language": "sha1$DlCW8fOlc1WsKiZi$b6ace2c23ec3a18068e1de2d260ff0905ffd6489",
+      "time": "0.000132"
    },
    "Canada": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "fra": "French"
-      }
+      "language": "sha1$xMXpkN6XBklAeVop$d4af68ff383e43312f179655374c5dd900baf359",
+      "time": "0.000068"
    },
    "Armenia": {
       "region": "Asia",
-      "language": {
-         "hye": "Armenian"
-      }
+      "language": "sha1$4deh7QyPQBdrpFJK$6f5d1a4f7720f41e288a389be33863320f4dbead",
+      "time": "0.000066"
    },
    "Falkland Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$GiwnQ9wpRMsn7z6d$c680c576ff2f488fbd099d47eca329f82f2e81c8",
+      "time": "0.000067"
    },
    "Panama": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$Vq4pqXnVidT9ybGl$1b996d9ee4de517ccc4fc117fcc6507909db7f66",
+      "time": "0.000062"
    },
    "Guam": {
       "region": "Oceania",
-      "language": {
-         "cha": "Chamorro",
-         "eng": "English",
-         "spa": "Spanish"
-      }
+      "language": "sha1$6vBsRM0zcVoiVbKG$0f4e4100f5c8e6b07ab20157bb0f4713831205fa",
+      "time": "0.000078"
    },
    "Egypt": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$OXHJp2PEsS8Qehrk$e2fe93b8efc8d87cf5af96243461aed3bb1894a3",
+      "time": "0.000090"
    },
    "Malta": {
       "region": "Europe",
-      "language": {
-         "eng": "English",
-         "mlt": "Maltese"
-      }
+      "language": "sha1$T1Htizv4r7eceK7m$268b3054a7a76ac08adfe963babfe208aad63e8c",
+      "time": "0.000077"
    },
    "Laos": {
       "region": "Asia",
-      "language": {
-         "lao": "Lao"
-      }
+      "language": "sha1$0lzAt28pEUSLvOUP$cf31a6ea8079ac922c554a022cab05983ee466d7",
+      "time": "0.000072"
    },
    "Azerbaijan": {
       "region": "Asia",
-      "language": {
-         "aze": "Azerbaijani",
-         "rus": "Russian"
-      }
+      "language": "sha1$R2m2sBtdUh7yybKA$fa5a4b6b88933182fd41764857c8cf16c49fa384",
+      "time": "0.000065"
    },
    "Turks and Caicos Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$g3XCHMTXMjCzPfWv$96dff04dcbb8b39545aac8a21ef6f494ae652c94",
+      "time": "0.000062"
    },
    "Saint Lucia": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$03pBnGHpRW2Utps7$9705e6e357f3d232965ea5ad878ccdc980adcb3d",
+      "time": "0.000064"
    },
    "Cambodia": {
       "region": "Asia",
-      "language": {
-         "khm": "Khmer"
-      }
+      "language": "sha1$UhzxmpALxVCyQ1KL$f57570d578612e7d978bb2363a5bcd53fff4a1a1",
+      "time": "0.000061"
    },
    "Tokelau": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "smo": "Samoan",
-         "tkl": "Tokelauan"
-      }
+      "language": "sha1$kbGyARb2wvuC11L9$482930183f2af34dd9a567ae0da8ee4d62e33153",
+      "time": "0.000061"
    },
    "Cuba": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$cjEMB4Ls9ThyZHv6$c9e78038ee48ef4bd7574052de37540aebb4618f",
+      "time": "0.000061"
    },
    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
       "region": "Africa",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$AOwSzZnWDNAOGnWv$3b63f4464a4e303557c3d1603459eb969d0e2641",
+      "time": "0.000062"
    },
    "Antigua and Barbuda": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$uqA6kOrFwFfmLS9Z$a71406ac22e8a9d13dd9b7fe7551700ddf31a363",
+      "time": "0.000061"
    },
    "Grenada": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$b9iKAdYYh07DU6hy$7ef6de351469fd22ef4380bba94731d4dba60b12",
+      "time": "0.000061"
    },
    "Serbia": {
       "region": "Europe",
-      "language": {
-         "srp": "Serbian"
-      }
+      "language": "sha1$k5Ox0tGxCkb6u0iE$5b72663ff728676de3249931d018e0abe8bf9c0a",
+      "time": "0.000060"
    },
    "Chad": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "fra": "French"
-      }
+      "language": "sha1$bCEftJMyjm24I9Id$e5ec1a6febc9576d508e1e80b58ada45d00f20ef",
+      "time": "0.000061"
    },
    "Vietnam": {
       "region": "Asia",
-      "language": {
-         "vie": "Vietnamese"
-      }
+      "language": "sha1$VoRX9vgQV5r8uK49$da44df135df0179e6cbc549ccbb1acef2855d75d",
+      "time": "0.000064"
    },
    "Sri Lanka": {
       "region": "Asia",
-      "language": {
-         "sin": "Sinhala",
-         "tam": "Tamil"
-      }
+      "language": "sha1$p1ULWXTV6tEuksOe$15b5222ec91ed715820550f6cfbef9059c3bee5e",
+      "time": "0.000064"
    },
    "Western Sahara": {
       "region": "Africa",
-      "language": {
-         "ber": "Berber",
-         "mey": "Hassaniya",
-         "spa": "Spanish"
-      }
+      "language": "sha1$sgyDwOeIiEac0geu$9a0ba3feba76523372cae71d60963308787a9fad",
+      "time": "0.000068"
    },
    "Burkina Faso": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$oGMrwVc8vDKieLRW$d48f52cc1b26e21ec79d0ec4220d937598fd92f5",
+      "time": "0.000061"
    },
    "Ireland": {
       "region": "Europe",
-      "language": {
-         "eng": "English",
-         "gle": "Irish"
-      }
+      "language": "sha1$lSUp5H7GBIwKeNnk$88d7edf3f787dbf90adeacc693da421663e5af65",
+      "time": "0.000064"
    },
    "Martinique": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$gEp20LsgM3X9a6Tx$c05c19c947086193f928136505857eb098885654",
+      "time": "0.000061"
    },
    "Qatar": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$ZVrjxr9MPkacB1s9$9be59136c7478c8142749a3596df0833c570cfe7",
+      "time": "0.000060"
    },
    "Sierra Leone": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$XsXD5kaARVkoShBe$e2843d8e7f9fee15abacff2bcc0d56145cb9be87",
+      "time": "0.000064"
    },
    "Slovakia": {
       "region": "Europe",
-      "language": {
-         "slk": "Slovak"
-      }
+      "language": "sha1$v9ROh8V72VjndSbI$59e60413af16003f4179f0ba595d33fd841b7f22",
+      "time": "0.000065"
    },
    "Montenegro": {
       "region": "Europe",
-      "language": {
-         "cnr": "Montenegrin"
-      }
+      "language": "sha1$0Bm4b2RUcGn4hUtF$0ed7c21260284cabbbec9d0d64eb17312685c1c0",
+      "time": "0.000060"
    },
    "Iceland": {
       "region": "Europe",
-      "language": {
-         "isl": "Icelandic"
-      }
+      "language": "sha1$ZxEMxHEx8aRbKczr$b2717c490d516db09eafedb600757ed90e3a8cc4",
+      "time": "0.000061"
    },
    "Gambia": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$Kdu9RKhjQV0RlZgt$9dd4eed29a0e95674d8454ceff2f2507cfa7e529",
+      "time": "0.000070"
    },
    "Guyana": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$B1S0UYBQZZdhK1YL$be0974e626e9de32e8e6a2edc4f65df2b5aebbad",
+      "time": "0.000067"
    },
    "Morocco": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "ber": "Berber"
-      }
+      "language": "sha1$Xkf3spDjuaZnefZ7$f7f2e10c745450d5328e5a852d4932eb44c92158",
+      "time": "0.000088"
    },
    "Sint Maarten": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "fra": "French",
-         "nld": "Dutch"
-      }
+      "language": "sha1$HyOzAZnkqOvS8ZND$5956d6c52a2ad76ea0842fbcf264bd049d3bafaa",
+      "time": "0.000073"
    },
    "Sweden": {
       "region": "Europe",
-      "language": {
-         "swe": "Swedish"
-      }
+      "language": "sha1$VIUEnZUxUbihsOE8$95fe9160e13032ee1d254a85c20fd8b88eedc137",
+      "time": "0.000062"
    },
    "Tuvalu": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "tvl": "Tuvaluan"
-      }
+      "language": "sha1$Oz5sgZv0vn8K9xPu$7a5817504ae5455d4bb186c7e0067a036e867066",
+      "time": "0.000064"
    },
    "United Arab Emirates": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$tXMuMbQqaQDR2lQy$f742d51a600b7af8e8c165b235e8293131d15646",
+      "time": "0.000060"
    },
    "Venezuela": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$e8awvStef6V4jxCM$7bdc8061baa8113d5ce33ec976b7b9a46378922d",
+      "time": "0.000064"
    },
    "Samoa": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "smo": "Samoan"
-      }
+      "language": "sha1$7VWwx7tptG1JYa7b$31bfa81f91d1311f2eab2b6ea77b7e1764d3ea63",
+      "time": "0.000061"
    },
    "Lebanon": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic",
-         "fra": "French"
-      }
+      "language": "sha1$eujtf6LfNtKaX5Na$f00afe6bd320677e1eaf2e77d9a3f92c4125442a",
+      "time": "0.000068"
    },
    "Benin": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$3zFwqG4BkrnevaIC$d058009bd290020b7f4fe71634848bf9c5a01424",
+      "time": "0.000062"
    },
    "United States": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$6DWLPummblCMBieh$d04ce8c9f73b82d1a4d26690f57efcb43dcdf445",
+      "time": "0.000068"
    },
    "Tonga": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "ton": "Tongan"
-      }
+      "language": "sha1$LirfUKd6XHlxmGlU$9e47e934140f988954466cb404b076978d9a76e9",
+      "time": "0.000061"
    },
    "Cura\u00e7ao": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "nld": "Dutch",
-         "pap": "Papiamento"
-      }
+      "language": "sha1$xiTs8H4yPX3TgLDj$c8f53e4f19f0ff2c5a9fe2e215f5921faa432362",
+      "time": "0.000069"
    },
    "Isle of Man": {
       "region": "Europe",
-      "language": {
-         "eng": "English",
-         "glv": "Manx"
-      }
+      "language": "sha1$3z7C1bDN8xgWhiyr$dba9798a3b034094ebcb58250379a971bfed149f",
+      "time": "0.000065"
    },
    "Bosnia and Herzegovina": {
       "region": "Europe",
-      "language": {
-         "bos": "Bosnian",
-         "hrv": "Croatian",
-         "srp": "Serbian"
-      }
+      "language": "sha1$uYA08VTEQJ8GTBju$d8d07e903650ec83d36b541e8f7ce8b6eff3e4af",
+      "time": "0.000065"
    },
    "Haiti": {
       "region": "Americas",
-      "language": {
-         "fra": "French",
-         "hat": "Haitian Creole"
-      }
+      "language": "sha1$sbeZq2ospviUFziK$1ca6060431e10001d74c7f611b0c25450286436e",
+      "time": "0.000065"
    },
    "Seychelles": {
       "region": "Africa",
-      "language": {
-         "crs": "Seychellois Creole",
-         "eng": "English",
-         "fra": "French"
-      }
+      "language": "sha1$hEDzfKolcEoLfQ1f$4557d248c4850d8a28ab019ab1648578824f11f2",
+      "time": "0.000062"
    },
    "Tanzania": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "swa": "Swahili"
-      }
+      "language": "sha1$JMjgtXO63eP6OvkJ$c6793861e7581d2cf9778c228c09b1db358ab39e",
+      "time": "0.000072"
    },
    "Faroe Islands": {
       "region": "Europe",
-      "language": {
-         "dan": "Danish",
-         "fao": "Faroese"
-      }
+      "language": "sha1$Y8K4B8n4SY9GP3oN$229235f5e4ee734a9298e73b234e50dd12fa5cd6",
+      "time": "0.000061"
    },
    "Eritrea": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "eng": "English",
-         "tir": "Tigrinya"
-      }
+      "language": "sha1$Jvs6QvXI84hg4Tb7$0a04be3f066b775f3fa72f05fd35e0204e1d6cd7",
+      "time": "0.000063"
    },
    "Ethiopia": {
       "region": "Africa",
-      "language": {
-         "amh": "Amharic"
-      }
+      "language": "sha1$6nrA8UVImcLGFMPi$af61afc551b7af2e2cde919822d8d53d8fe38343",
+      "time": "0.000062"
    },
    "Norfolk Island": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "pih": "Norfuk"
-      }
+      "language": "sha1$Fdwk1ogPeiAORx0d$375fe0ee3c8e01447d671e4709975ca84266a140",
+      "time": "0.000080"
    },
    "Mongolia": {
       "region": "Asia",
-      "language": {
-         "mon": "Mongolian"
-      }
+      "language": "sha1$N2PasmtakJaeAQyM$a7b33ecf9c5186621c020e404c1ff86cb460a4bd",
+      "time": "0.000096"
    },
    "Germany": {
       "region": "Europe",
-      "language": {
-         "deu": "German"
-      }
+      "language": "sha1$IF8mlv3rfO8C4F4O$564ad5c94d4ad0691e8d89db4c71181270e328ce",
+      "time": "0.000078"
    },
    "Vatican City": {
       "region": "Europe",
-      "language": {
-         "ita": "Italian",
-         "lat": "Latin"
-      }
+      "language": "sha1$acE7DsjXHKGqY9at$cfb3709c84fac4f3cafcb6e0e1aa6e2d2831300a",
+      "time": "0.000072"
    },
    "Cameroon": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "fra": "French"
-      }
+      "language": "sha1$yGtV3ON61JbzKujK$f7e9b172adf2349d9ea66911e2401f963531f567",
+      "time": "0.000062"
    },
    "Nepal": {
       "region": "Asia",
-      "language": {
-         "nep": "Nepali"
-      }
+      "language": "sha1$pIJCHJtZKg7TzGyb$211266e3bbcaec5e28ce10335d7bccf34801f66c",
+      "time": "0.000061"
    },
    "South Africa": {
       "region": "Africa",
-      "language": {
-         "afr": "Afrikaans",
-         "eng": "English",
-         "nbl": "Southern Ndebele",
-         "nso": "Northern Sotho",
-         "sot": "Southern Sotho",
-         "ssw": "Swazi",
-         "tsn": "Tswana",
-         "tso": "Tsonga",
-         "ven": "Venda",
-         "xho": "Xhosa",
-         "zul": "Zulu"
-      }
+      "language": "sha1$mX2Zyo84zs3pmNT1$a96e6ef26bd4832877df500b63c58c51036aa0ec",
+      "time": "0.000062"
    },
    "Syria": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$7rD3RDftbEgVJKe1$b674ca2ca7709dafb4ceec4ec0f0f1a90b7c7dfb",
+      "time": "0.000061"
    },
    "San Marino": {
       "region": "Europe",
-      "language": {
-         "ita": "Italian"
-      }
+      "language": "sha1$jivczeKGmfMirClq$6e2d65ed6558d1d051c9aaee2f8c8de2e880e0a4",
+      "time": "0.000061"
    },
    "Brunei": {
       "region": "Asia",
-      "language": {
-         "msa": "Malay"
-      }
+      "language": "sha1$7mF6tB0uxn0Cd1NM$f5910fc5dfd332ae3482fe0948911d2e281cff9f",
+      "time": "0.000062"
    },
    "Italy": {
       "region": "Europe",
-      "language": {
-         "ita": "Italian"
-      }
+      "language": "sha1$GTON3fCXTtvi82My$83d727a2569d3849a8308d2b8d2bf89b8babd7de",
+      "time": "0.000060"
    },
    "South Sudan": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$8MAeIwmWD3beA8WX$93ff60e5bf99026e49e9736d584fafd3f5026035",
+      "time": "0.000060"
    },
    "Portugal": {
       "region": "Europe",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$6TVsaIMmERoyAHai$622ab2af1c838622e5f78d79e1c213eaa37cbc62",
+      "time": "0.000069"
    },
    "Iraq": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic",
-         "arc": "Aramaic",
-         "ckb": "Sorani"
-      }
+      "language": "sha1$Qnvq6wdwwQjEjljg$02b6a6534f3aa54e835aabc50fe96e41c000aa1e",
+      "time": "0.000066"
    },
    "Mayotte": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$4FWKsmhh3E9IpqMq$d8f98a73c21507a556d3c7e7af6419e0cfdc2d7a",
+      "time": "0.000062"
    },
    "Luxembourg": {
       "region": "Europe",
-      "language": {
-         "deu": "German",
-         "fra": "French",
-         "ltz": "Luxembourgish"
-      }
+      "language": "sha1$sbpb9kI7s3CZXMBh$3a576df22c7d4519965c21960e034fa2276a5685",
+      "time": "0.000069"
    },
    "Saint Martin": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$l6OK4OlDVUgjQ4RS$5e70a315498e9d3827fe0567019ba1ca5cbaafbc",
+      "time": "0.000066"
    },
    "Albania": {
       "region": "Europe",
-      "language": {
-         "sqi": "Albanian"
-      }
+      "language": "sha1$zKesdLYiIS94DayQ$2dce251da614f812c3b399acd7814fe329c7e29c",
+      "time": "0.000069"
    },
    "Uganda": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "swa": "Swahili"
-      }
+      "language": "sha1$ODSslWoqvXl3sDdx$881b9a239e1af15f5717211164ca9f5b3e6b44b9",
+      "time": "0.000066"
    },
    "Bhutan": {
       "region": "Asia",
-      "language": {
-         "dzo": "Dzongkha"
-      }
+      "language": "sha1$P1Ve5h0Ed0Zdozqi$e5edab1165fc89c8ddd62a389a4cefb16226bf28",
+      "time": "0.000065"
    },
    "Wallis and Futuna": {
       "region": "Oceania",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$iFcNc060fJlrIInk$306ca18a9ca984bc937b4d058c724deb2b830a6b",
+      "time": "0.000064"
    },
    "Namibia": {
       "region": "Africa",
-      "language": {
-         "afr": "Afrikaans",
-         "deu": "German",
-         "eng": "English",
-         "her": "Herero",
-         "hgm": "Khoekhoe",
-         "kwn": "Kwangali",
-         "loz": "Lozi",
-         "ndo": "Ndonga",
-         "tsn": "Tswana"
-      }
+      "language": "sha1$N0X6Eh8QEmGgucCc$c1451250ab97e9431ad78a23fc53d800cc8e0709",
+      "time": "0.000063"
    },
    "R\u00e9union": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$3HWVi08FqEwZRqZK$82b9b737dbf1ba3bb969fb9ed3cf54eb2a82ea96",
+      "time": "0.000065"
    },
    "Spain": {
       "region": "Europe",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$qBgC1uTRqEG7FLnQ$df9705959033da5a59a67ca675e8f98142251e39",
+      "time": "0.000062"
    },
    "Oman": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$qDPmG6GnYb1FXmae$3bc329d79576287290ba9c6c0f31324a09702c3a",
+      "time": "0.000064"
    },
    "Bangladesh": {
       "region": "Asia",
-      "language": {
-         "ben": "Bengali"
-      }
+      "language": "sha1$5xw1vfegork7DIV9$e42ef944cdd627aeee60bae41217df3c1afff509",
+      "time": "0.000064"
    },
    "Djibouti": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "fra": "French"
-      }
+      "language": "sha1$EwZjkMrGTusnoetN$0ed66414afa5c4f17039ca26954faa7635d8c455",
+      "time": "0.000066"
    },
    "Taiwan": {
       "region": "Asia",
-      "language": {
-         "zho": "Chinese"
-      }
+      "language": "sha1$Pr6kO2M7MzS83Til$88988f33d0f84e7b40312a940e31ccf33f4ec352",
+      "time": "0.000063"
    },
    "Mauritius": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "fra": "French",
-         "mfe": "Mauritian Creole"
-      }
+      "language": "sha1$efV0uK3Qbug7ROwi$dba558546546a48cbf24391fe408280413cdaff7",
+      "time": "0.000069"
    },
    "Svalbard and Jan Mayen": {
       "region": "Europe",
-      "language": {
-         "nor": "Norwegian"
-      }
+      "language": "sha1$jL2CakwJ9THp0zB0$5456c2695d6cba648d6ef1f186770eb817471687",
+      "time": "0.000064"
    },
    "Thailand": {
       "region": "Asia",
-      "language": {
-         "tha": "Thai"
-      }
+      "language": "sha1$E21nHd93GkhLVfxO$cbbd2672800c55d2200795d984c61f0ff9d14905",
+      "time": "0.000077"
    },
    "Honduras": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$x9vpbPBHJSLtJdO7$aa94f8021f9bedf51afa245e2887878016dc1c0c",
+      "time": "0.000064"
    },
    "Paraguay": {
       "region": "Americas",
-      "language": {
-         "grn": "Guaran\u00ed",
-         "spa": "Spanish"
-      }
+      "language": "sha1$XAMCu9oDCfFlApi2$cc16505086d3d634245329183bf4615fc0f5f7f9",
+      "time": "0.000068"
    },
    "Liberia": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$ICUHM36Mf5me7TMP$997f709b780086b7ec6f91211213cfb27bb4a356",
+      "time": "0.000060"
    },
    "Slovenia": {
       "region": "Europe",
-      "language": {
-         "slv": "Slovene"
-      }
+      "language": "sha1$p06R1cr5acqHooCZ$0372ccfd90b846bd3876a4ac5dfdc92459fac010",
+      "time": "0.000068"
    },
    "Somalia": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "som": "Somali"
-      }
+      "language": "sha1$t0yBspiVuAr0m3SL$cb8dbf4911575a90f88d38bd3b4902c62e3b38a6",
+      "time": "0.000064"
    },
    "Gibraltar": {
       "region": "Europe",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$4Wid7vO9pF8S9yDN$d5da737a66081d0af914c41b0512c93ade9871fa",
+      "time": "0.000061"
    },
    "New Zealand": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "mri": "M\u0101ori",
-         "nzs": "New Zealand Sign Language"
-      }
+      "language": "sha1$jNr8gsiANIPCerWO$4f25b49f454b8303d5fc904f098857b920b67fc2",
+      "time": "0.000062"
    },
    "British Virgin Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$SUqPK7uqe2AZZg7A$d2e2bd5b90d70155ca3b7221f9b11c529ebe0321",
+      "time": "0.000064"
    },
    "Bahamas": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$fFMuKOkIpoumDwTs$14853ba50f40e14eb2ed8e871ac85794b514fda1",
+      "time": "0.000060"
    },
    "Malawi": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "nya": "Chewa"
-      }
+      "language": "sha1$7yboYVv586sbBAZK$5f1c10afec7d92fc8dfc5ed34204356b2ac91784",
+      "time": "0.000064"
    },
    "Saudi Arabia": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$7DLA0GXyE53YKcN2$0756ad53323399ab45829a4c903c3b3f811d2ee6",
+      "time": "0.000060"
    },
    "Guinea-Bissau": {
       "region": "Africa",
-      "language": {
-         "por": "Portuguese",
-         "pov": "Upper Guinea Creole"
-      }
+      "language": "sha1$pWGcyZSfOcFFvuV9$85d707dde359b7f9c004e13198137d7e39dc1489",
+      "time": "0.000061"
    },
    "Ecuador": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$BTHr9TB6izctmXsJ$dc49ae454c6f0a01c1ba00be6011c70a345c3ce0",
+      "time": "0.000061"
    },
    "Timor-Leste": {
       "region": "Asia",
-      "language": {
-         "por": "Portuguese",
-         "tet": "Tetum"
-      }
+      "language": "sha1$9o4nyRXWCQp2ZrgM$334177afb994d0df8435281485f83bfcf6ef7884",
+      "time": "0.000061"
    },
    "Switzerland": {
       "region": "Europe",
-      "language": {
-         "fra": "French",
-         "gsw": "Swiss German",
-         "ita": "Italian",
-         "roh": "Romansh"
-      }
+      "language": "sha1$v6n1J1yEZXbBKg03$d010400fd346a256219b376d31dc03eef2bfb6e5",
+      "time": "0.000061"
    },
    "Libya": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$MNk7OQIrPjMSvlMN$7f16233e35894a41f12308fc5bb42cdfa356b14f",
+      "time": "0.000061"
    },
    "Senegal": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$5tyJT7cjTHEfBjAr$432cd8278e09b7571f182002442b7458596609ed",
+      "time": "0.000060"
    },
    "Bolivia": {
       "region": "Americas",
-      "language": {
-         "aym": "Aymara",
-         "grn": "Guaran\u00ed",
-         "que": "Quechua",
-         "spa": "Spanish"
-      }
+      "language": "sha1$uQPbJc6ZbXQ9Xwjv$2a547f42909c7f7b51f066815f171c8622e8ef31",
+      "time": "0.000062"
    },
    "Australia": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$AKKjwLUWuGJVvPvP$a14cfeb0ab5be41aa93927459ab346a7a0c23928",
+      "time": "0.000064"
    },
    "Papua New Guinea": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "hmo": "Hiri Motu",
-         "tpi": "Tok Pisin"
-      }
+      "language": "sha1$B8tveVi7oe1JH2fC$ec1c7b5d62b945c2facd4d7b7cc7b4a433313eb4",
+      "time": "0.000061"
    },
    "Barbados": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$pf9VLRB9qcZDWKob$59a3dd8d3a7c7ce78c70356096272a7dc6cf3ce7",
+      "time": "0.000061"
    },
    "Republic of the Congo": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "kon": "Kikongo",
-         "lin": "Lingala"
-      }
+      "language": "sha1$1MsOkZF1eh8j0NbT$06f70f03d55f9a831c10fbed67307f30e8b6851d",
+      "time": "0.000068"
    },
    "Kosovo": {
       "region": "Europe",
-      "language": {
-         "sqi": "Albanian",
-         "srp": "Serbian"
-      }
+      "language": "sha1$Fzw1GcWM3uD1FYeU$0baedbe43a655252f9702ba7545cb050113346ce",
+      "time": "0.000061"
    },
    "French Polynesia": {
       "region": "Oceania",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$jC2vL7Uqthw2w1Zs$c978cbf7b5202ddeed05400ef3299c104c17b1f3",
+      "time": "0.000064"
    },
    "Lithuania": {
       "region": "Europe",
-      "language": {
-         "lit": "Lithuanian"
-      }
+      "language": "sha1$bwD96N9H02yeT7yg$4fc368388157da3179c2c4ed91600b8053e95cad",
+      "time": "0.000061"
    },
    "Bulgaria": {
       "region": "Europe",
-      "language": {
-         "bul": "Bulgarian"
-      }
+      "language": "sha1$d8hyJkM7D5bTcanV$1a2bc650b443d63d5b033099abbdfe5e5f5cdfcc",
+      "time": "0.000061"
    },
    "Sudan": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic",
-         "eng": "English"
-      }
+      "language": "sha1$FA7yG6LLGdF12MPm$fa6a4dd5e72e7949862ec0061d1dfc8397e4b8db",
+      "time": "0.000064"
    },
    "Saint Barth\u00e9lemy": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$e2E8SF4f3Tj32zkM$f3ad2d49b95d7a4902ff3c0cc71c2118a78c08f0",
+      "time": "0.000066"
    },
    "Turkmenistan": {
       "region": "Asia",
-      "language": {
-         "rus": "Russian",
-         "tuk": "Turkmen"
-      }
+      "language": "sha1$jY8bUmhNO26kdcwO$4006c43fe4dc2d3ce03b430bf298c89aac467a90",
+      "time": "0.000062"
    },
    "Myanmar": {
       "region": "Asia",
-      "language": {
-         "mya": "Burmese"
-      }
+      "language": "sha1$iloWAag7RJwwoNXR$d90f7cb4db2067d9848bd3f90073dd295dcaba09",
+      "time": "0.000061"
    },
    "Brazil": {
       "region": "Americas",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$ysE82kOt5S9rtDuq$60bc0b84cb08a4e16cf29857dac6ce77d6a6a9cb",
+      "time": "0.000060"
    },
    "Colombia": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$lCgTejY3PklOZWrR$bfc214d2f0be6f2064742a143bf039df04dc4212",
+      "time": "0.000061"
    },
    "Heard Island and McDonald Islands": {
       "region": "Antarctic",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$8r3D8CkgNbxr5Wh7$c5e7dbdf385a2e3a4c0b24f79b7661891f04df4e",
+      "time": "0.000068"
    },
    "Iran": {
       "region": "Asia",
-      "language": {
-         "fas": "Persian (Farsi)"
-      }
+      "language": "sha1$i22PxJX54P6yWYdX$e460cbcee9119a57a553a8a1998aab128ae0e416",
+      "time": "0.000067"
    },
    "Moldova": {
       "region": "Europe",
-      "language": {
-         "ron": "Moldavian"
-      }
+      "language": "sha1$25CM49NpyIVo3XZI$76739bad9464e2bcda718c1794810ffd1df9d8c6",
+      "time": "0.000064"
    },
    "Montserrat": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$TCA8vjG4Y5RnvUiz$cf2f1e7d02f78e2d7ad0cb89f9bfd90302c83090",
+      "time": "0.000067"
    },
    "Denmark": {
       "region": "Europe",
-      "language": {
-         "dan": "Danish"
-      }
+      "language": "sha1$XX93FUZJhKdkE3PC$b04cc57cd56b84a2a162adfeed677f3776dec0b3",
+      "time": "0.000065"
    },
    "Macau": {
       "region": "Asia",
-      "language": {
-         "por": "Portuguese",
-         "zho": "Chinese"
-      }
+      "language": "sha1$iExCmwxwYIiCVcyh$e0ac02234020b96f256cb9a456fdb3ef8b86ee75",
+      "time": "0.000061"
    },
    "Norway": {
       "region": "Europe",
-      "language": {
-         "nno": "Norwegian Nynorsk",
-         "nob": "Norwegian Bokm\u00e5l",
-         "smi": "Sami"
-      }
+      "language": "sha1$HcSiGYWAENcbQBfc$4c4448ccef9f8cc0ac4dde37ab88414906beafd2",
+      "time": "0.000062"
    },
    "Cape Verde": {
       "region": "Africa",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$8AYvTRVvphDlZIhU$bce274fadf603751671fdc8d052587f73f86c3af",
+      "time": "0.000060"
    },
    "Japan": {
       "region": "Asia",
-      "language": {
-         "jpn": "Japanese"
-      }
+      "language": "sha1$eNHspviRcaNsKkQb$129d1f15d5057202d27c1d285e591ecf9369b70f",
+      "time": "0.000068"
    },
    "Bahrain": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$BQJR7mOoaKMjlTCg$0912d7a2fa30c9965598a71314412957ead916a8",
+      "time": "0.000060"
    },
    "Cyprus": {
       "region": "Europe",
-      "language": {
-         "ell": "Greek",
-         "tur": "Turkish"
-      }
+      "language": "sha1$PlJIIHvLplHpUsgw$08b8862767a4d8b8957e5e9ab55566cba3432afe",
+      "time": "0.000061"
    },
    "Gabon": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$QnMqNWvvG2ddAtTx$96b4f29b89ec2e3c1bc22b236c897a029915da14",
+      "time": "0.000067"
    },
    "Niger": {
       "region": "Africa",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$BcsTWGxLxbo8i9ht$48c91f28cc06f82774da7b1a807facb9072f04fd",
+      "time": "0.000061"
    },
    "Cook Islands": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "rar": "Cook Islands M\u0101ori"
-      }
+      "language": "sha1$535ma5B55PQ4TOBo$28ce9682da1955ab69a42197b6c979db4e67bd64",
+      "time": "0.000065"
    },
    "Maldives": {
       "region": "Asia",
-      "language": {
-         "div": "Maldivian"
-      }
+      "language": "sha1$7s6zEDIC5H7CPDRy$052b0af82bf49b68c292cda95af3e86cba0eefa0",
+      "time": "0.000060"
    },
    "Andorra": {
       "region": "Europe",
-      "language": {
-         "cat": "Catalan"
-      }
+      "language": "sha1$odqfwPA2QWtFMICb$272a83fe18b1711b4afbabe7e21f57ff68de98c6",
+      "time": "0.000061"
    },
    "Dominican Republic": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$71ZDa0VqYNgW2lio$c15fa1cb017d221137b73fc4c2c7badf06b6af30",
+      "time": "0.000061"
    },
    "Singapore": {
       "region": "Asia",
-      "language": {
-         "zho": "Chinese",
-         "eng": "English",
-         "msa": "Malay",
-         "tam": "Tamil"
-      }
+      "language": "sha1$GRq5WzC4xccZvX66$302db313b33072e78fb901deb76c788f984c9d59",
+      "time": "0.000061"
    },
    "DR Congo": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "kon": "Kikongo",
-         "lin": "Lingala",
-         "lua": "Tshiluba",
-         "swa": "Swahili"
-      }
+      "language": "sha1$wLtOtsDH2Ad33Dn9$77daeaee2006639d7eaf5b589e0fb5f83d984e52",
+      "time": "0.000061"
    },
    "South Georgia": {
       "region": "Antarctic",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$ePhXETBoYwrfMzQD$e675ad9184d0e2d3cbd549f2c6079f9df70ced98",
+      "time": "0.000070"
    },
    "Bouvet Island": {
       "region": "Antarctic",
-      "language": {
-         "nor": "Norwegian"
-      }
+      "language": "sha1$G2swlJXXKqpE1tBs$677fbed6fa096296fcb9096bf8331502a89725c8",
+      "time": "0.000064"
    },
    "El Salvador": {
       "region": "Americas",
-      "language": {
-         "spa": "Spanish"
-      }
+      "language": "sha1$JgvaGPj6RzRTleUl$43c02506613ab3ed2d31ac929cb5857d84070fa2",
+      "time": "0.000066"
    },
    "Yemen": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$mSZ9xMU4x3yNUOLT$a2b109ff907aed971ec965bf23df7a117e8ec09d",
+      "time": "0.000060"
    },
    "Ukraine": {
       "region": "Europe",
-      "language": {
-         "ukr": "Ukrainian"
-      }
+      "language": "sha1$tJ7lvtuqlHkUx0rq$72dc85b250566847b62fbf2f3c18d0467625167e",
+      "time": "0.000061"
    },
    "France": {
       "region": "Europe",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$HmdUtZCo3y9ZDVMS$3e87429e3d869e298a90b602b3f2e9b3128b39d1",
+      "time": "0.000060"
    },
    "China": {
       "region": "Asia",
-      "language": {
-         "zho": "Chinese"
-      }
+      "language": "sha1$qC9jywG0hpXwq6G9$8e734b7af6249eaca25e7d0f49cdf1525d5ebc3d",
+      "time": "0.000063"
    },
    "Peru": {
       "region": "Americas",
-      "language": {
-         "aym": "Aymara",
-         "que": "Quechua",
-         "spa": "Spanish"
-      }
+      "language": "sha1$NizZXaHqzfwuQYFt$2222cdd945872d2068db02dda5e02fdfdb649405",
+      "time": "0.000064"
    },
    "Saint Pierre and Miquelon": {
       "region": "Americas",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$GeL8Z7NSgebJlg5r$6ba713d78021f74cc697076ef7d5294dff29d2cc",
+      "time": "0.000066"
    },
    "Suriname": {
       "region": "Americas",
-      "language": {
-         "nld": "Dutch"
-      }
+      "language": "sha1$K7cqURs2sEHIv1ia$7932af37da0963757bc2563567b7139a43b706b7",
+      "time": "0.000061"
    },
    "Pitcairn Islands": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$kwEkvYcnPrtOVjTw$e0422d03c10b312492d8c31d0d9ba4283018b3f1",
+      "time": "0.000069"
    },
    "Afghanistan": {
       "region": "Asia",
-      "language": {
-         "prs": "Dari",
-         "pus": "Pashto",
-         "tuk": "Turkmen"
-      }
+      "language": "sha1$GbEzg0JvOf1NJIp1$ecb7910f8f621aef184e1dda6a6542993215d40c",
+      "time": "0.000066"
    },
    "Hungary": {
       "region": "Europe",
-      "language": {
-         "hun": "Hungarian"
-      }
+      "language": "sha1$J6atfc1qarGXU1KJ$6f7deaa765d88d2a7460b6295274ca57832a7017",
+      "time": "0.000064"
    },
    "United Kingdom": {
       "region": "Europe",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$kW7TMl1fNL8THKgr$cc009593dbce8caaf87417f6ad8d21a4574260e8",
+      "time": "0.000061"
    },
    "Mauritania": {
       "region": "Africa",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$98urKoUknHMJYnUb$ddde1e507db4fe5ac07cbddb7416b3e5d89728f1",
+      "time": "0.000064"
    },
    "American Samoa": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "smo": "Samoan"
-      }
+      "language": "sha1$5JDjf2ALXAZpyTwb$9e2baaa0f2301592cbf0f01a6e60dc33f42ef79f",
+      "time": "0.000061"
    },
    "Estonia": {
       "region": "Europe",
-      "language": {
-         "est": "Estonian"
-      }
+      "language": "sha1$JuaS3vqZIXCCJxvt$e62a0008fdd26a3086c11a9340b9c27c26f84829",
+      "time": "0.000067"
    },
    "Kuwait": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$0OAiXiGjbe7JGtTX$8922f660fd74eb910d445998e09cb118e21a6b41",
+      "time": "0.000114"
    },
    "French Southern and Antarctic Lands": {
       "region": "Antarctic",
-      "language": {
-         "fra": "French"
-      }
+      "language": "sha1$eiRD6na1SLyR4gyd$a4e3f2b9d9680d74fffb961057c3add0170131a5",
+      "time": "0.000072"
    },
    "India": {
       "region": "Asia",
-      "language": {
-         "eng": "English",
-         "hin": "Hindi",
-         "tam": "Tamil"
-      }
+      "language": "sha1$8tniDvIgXvc4VPEV$bb18c8d50f91ca8f1a49efd31d3b0b3399429770",
+      "time": "0.000066"
    },
    "Netherlands": {
       "region": "Europe",
-      "language": {
-         "nld": "Dutch"
-      }
+      "language": "sha1$EcBs1BgMFvm9M07C$02a00cc8d20b1fbef432b25a74e3a7cd1c1465d8",
+      "time": "0.000061"
    },
    "Jordan": {
       "region": "Asia",
-      "language": {
-         "ara": "Arabic"
-      }
+      "language": "sha1$2d0JRlEKihG27w2b$ab4a4ea128c4f296abcb8fab6a5803d5177ca1fe",
+      "time": "0.000061"
    },
    "Caribbean Netherlands": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "nld": "Dutch",
-         "pap": "Papiamento"
-      }
+      "language": "sha1$5eTto7Aft6Hj7bGU$e05cd364113db5ee087fd1f9c88c03a229ae1818",
+      "time": "0.000064"
    },
    "Cayman Islands": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$LacWUalE1xaqbBHy$921e5e0a377d10953bcd8234f683035db50cee70",
+      "time": "0.000062"
    },
    "Malaysia": {
       "region": "Asia",
-      "language": {
-         "eng": "English",
-         "msa": "Malay"
-      }
+      "language": "sha1$t0IUX0a6Use1WIFn$57738b5ecb89cf0dbe8de8a3372c9ff7dcb66b6a",
+      "time": "0.000062"
    },
    "Ghana": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$1QfmnMeYFh3YNVAw$1b0d66833dab329f8330c7aa1f53a3b7e9f2bef1",
+      "time": "0.000060"
    },
    "Puerto Rico": {
       "region": "Americas",
-      "language": {
-         "eng": "English",
-         "spa": "Spanish"
-      }
+      "language": "sha1$SsPRbjqyXzH6w66L$a280c1e2feb7de564f39d840a720d9e33cb601ee",
+      "time": "0.000064"
    },
    "Croatia": {
       "region": "Europe",
-      "language": {
-         "hrv": "Croatian"
-      }
+      "language": "sha1$LQOjmWcrRLmyqCYL$62e1a5ec4f90770bfc2bf2c29441953f0e44a72d",
+      "time": "0.000064"
    },
    "Czechia": {
       "region": "Europe",
-      "language": {
-         "ces": "Czech",
-         "slk": "Slovak"
-      }
+      "language": "sha1$zJuSXia9GnIKiKep$3c342f2feba5f214960a41b94b3c956963976a29",
+      "time": "0.000061"
    },
    "Uzbekistan": {
       "region": "Asia",
-      "language": {
-         "rus": "Russian",
-         "uzb": "Uzbek"
-      }
+      "language": "sha1$PaJTcZ8ayWXDk6Q6$739ca2385fdb338e82726deb97dcc2f7e1503008",
+      "time": "0.000061"
    },
    "Burundi": {
       "region": "Africa",
-      "language": {
-         "fra": "French",
-         "run": "Kirundi"
-      }
+      "language": "sha1$Lan1z1AgpTplHcvB$3ec07e5b64cefd6a8140dca43dc17688fbefaead",
+      "time": "0.000066"
    },
    "British Indian Ocean Territory": {
       "region": "Africa",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$fFmIHgfEykmT5Cle$2dfc66345ab00b90815d9513bcc7c38336133312",
+      "time": "0.000061"
    },
    "Christmas Island": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$qfe4toVudsWsSUZ7$6c9c8315a1681da6ef190e89d56aebb2a9cbd4be",
+      "time": "0.000061"
    },
    "Belize": {
       "region": "Americas",
-      "language": {
-         "bjz": "Belizean Creole",
-         "eng": "English",
-         "spa": "Spanish"
-      }
+      "language": "sha1$TMKtAfdkKo6k8dg5$a096e99d30c9e8956dfde100b586057683b89d00",
+      "time": "0.000061"
    },
    "Kenya": {
       "region": "Africa",
-      "language": {
-         "eng": "English",
-         "swa": "Swahili"
-      }
+      "language": "sha1$2bDtl231Oz69u6wP$a2df91c4825b02afba9bcdc73ff853338ee5e31a",
+      "time": "0.000061"
    },
    "Kazakhstan": {
       "region": "Asia",
-      "language": {
-         "kaz": "Kazakh",
-         "rus": "Russian"
-      }
+      "language": "sha1$R876JFlcWowk1wCm$ecf1e9ca88ed2f73e7fd9a68b464188f510d5097",
+      "time": "0.000068"
    },
    "Argentina": {
       "region": "Americas",
-      "language": {
-         "grn": "Guaran\u00ed",
-         "spa": "Spanish"
-      }
+      "language": "sha1$IByiGvg0qakxxSqC$a052fdf034fa6f05877f69bb59595df532e60ded",
+      "time": "0.000064"
    },
    "Hong Kong": {
       "region": "Asia",
-      "language": {
-         "eng": "English",
-         "zho": "Chinese"
-      }
+      "language": "sha1$bF2LAjp9xLMbPsK7$9bcecef42863ae1c98e056e874c4fb4dc4e99932",
+      "time": "0.000061"
    },
    "Micronesia": {
       "region": "Oceania",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$dHxYdlY8B2iafhht$350443b2a3117c90d3f651d6d2243db436d3fbd1",
+      "time": "0.000061"
    },
    "Romania": {
       "region": "Europe",
-      "language": {
-         "ron": "Romanian"
-      }
+      "language": "sha1$d4PM9BFDLxlDvmjv$b87080a9f10907f26971ac474695c71970157bb8",
+      "time": "0.000064"
    },
    "Kiribati": {
       "region": "Oceania",
-      "language": {
-         "eng": "English",
-         "gil": "Gilbertese"
-      }
+      "language": "sha1$J9Ne4dAaMRl1tkDS$96b3dd90a2b653f38f572b9043a1a9d5c0791277",
+      "time": "0.000062"
    },
    "Vanuatu": {
       "region": "Oceania",
-      "language": {
-         "bis": "Bislama",
-         "eng": "English",
-         "fra": "French"
-      }
+      "language": "sha1$SufeOfMfHomAIPur$7fd7e0b062f6b5a9980333ca15e180887213bc0d",
+      "time": "0.000061"
    },
    "Angola": {
       "region": "Africa",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$TadLYUlUhsn8YVZ2$f1d533441a52bb65291aac7d069ed25507c993f6",
+      "time": "0.000063"
    },
    "Anguilla": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$OLIoY0x8gSpe0G9C$2e70e61149b598f636d7a9eee4f52dbd8ecddf77",
+      "time": "0.000064"
    },
    "Poland": {
       "region": "Europe",
-      "language": {
-         "pol": "Polish"
-      }
+      "language": "sha1$np1i9yVPk4mBdTlu$08e97b0a89ab835f6bebd2ff030df8501ad52b95",
+      "time": "0.000060"
    },
    "Belgium": {
       "region": "Europe",
-      "language": {
-         "deu": "German",
-         "fra": "French",
-         "nld": "Dutch"
-      }
+      "language": "sha1$azBOOzaUAEEqoVjC$dec58928c3c0b4c7091641f8441fb70c8f0a2699",
+      "time": "0.000061"
    },
    "Mozambique": {
       "region": "Africa",
-      "language": {
-         "por": "Portuguese"
-      }
+      "language": "sha1$BpPCqAmRVQnyt5SG$5dac7376bb3f035e25ecfa5a4ef8f993c96cbfb7",
+      "time": "0.000061"
    },
    "Bermuda": {
       "region": "Americas",
-      "language": {
-         "eng": "English"
-      }
+      "language": "sha1$E6TVHatEPx2qrSGH$d417c6a7e51c349863185c8196f9d7ce0cb79a62",
+      "time": "0.000060"
    },
    "Russia": {
       "region": "Europe",
-      "language": {
-         "rus": "Russian"
-      }
+      "language": "sha1$NCUG0NizzUBtKsvV$26915edde91c51651d0964482cbbef6ccea230b2",
+      "time": "0.000064"
    },
    "Greenland": {
       "region": "Americas",
-      "language": {
-         "kal": "Greenlandic"
-      }
+      "language": "sha1$z5YaIQyFjTuZmAL3$a0a9facb4244273bc5f56e87cb624d5dc99d517f",
+      "time": "0.000064"
    }
 }
