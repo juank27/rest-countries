@@ -1,15 +1,16 @@
+import time
 import requests
 from werkzeug.security import generate_password_hash, check_password_hash
 import json
 import pandas as pd
 
+#get data
 def getData(url):
    r = requests.get(url)
    if r.status_code == 200:
       return r.json()
    return None
 
-import time
 #generate json
 def generateJSON(data, time=time):
    data_json = {}
@@ -19,11 +20,10 @@ def generateJSON(data, time=time):
          aux = {}
          aux['region'] = i['region']
          name = i['name']['common']
-         encrypt= encryptSHA1(keys(i['languages']))
+         encrypt = encryptSHA1(keys(i['languages']))
          aux['language'] = encrypt
-         aux['time'] = ("{:.6f}".format(time.time() - start))
+         aux['time'] = (time.time() - start)
          data_json[name] = aux
-         #print(data_json)
       except:
          pass
    return data_json
@@ -45,21 +45,19 @@ def encryptSHA1(language):
    encrypt = generate_password_hash(language, 'sha1')
    return encrypt
 
-#veryfy
-def verifySHA1(encrypt,country):
+#veryfy encrypt
+def verifySHA1(encrypt, country):
    encrypt_result = check_password_hash(encrypt, country)
    return encrypt_result
 
 #Create DataFrame
-#https://pandas.pydata.org/docs/reference/api/pandas.concat.html
-#https://www.youtube.com/watch?v=HXaZfvkF16I
-def createDataFrame():
-   #df = pd.DataFrame(columns=['Region', 'City Name', 'Language', 'Time'])
-   df = pd.DataFrame()
-   df['first_name'] = ['Josy', 'Vaughn', 'Neale', 'Teirtza']
-   df['last_name'] = ['Clarae', 'Halegarth', 'Georgievski', 'Teirtza']
-   df['gender'] = ['Female', 'Male', 'Male', 'Female']
-   print(df)
+def createDataFrame(data, time=time):
+   df = pd.DataFrame(columns=['Region', 'City Name', 'Language', 'Time'])
+   aux = 1
+   for i in data:
+      df.loc[aux] = [data[i]['region'], i, data[i]['language'], data[i]['time']]
+      aux += 1
+   return df
 
 #save result
 def saveResult(data):
@@ -71,38 +69,30 @@ def saveJSON(data):
    file.write(data)
    file.close()
 
+#operations time
+def operaciones(data):
+   aux = {}
+   n = 0
+   for i in data:
+      aux[n] = data[i]['time']
+      n += 1
+   serie = pd.Series(aux)
+   result = {
+      'total': serie.sum(),
+      'promedio': serie.mean(),
+      'min': serie.min(),
+      'max': serie.max(),
+   }
+   return result
+
+#main
 def main():
    data = getData('https://restcountries.com/v3.1/all')
-   data_generate = json.dumps(generateJSON(data), indent=3)
-   saveJSON(data_generate)
+   data_generate = generateJSON(data)
+   print(createDataFrame(data_generate))
+   print(operaciones(data_generate))
+   saveJSON(json.dumps(data_generate, indent=2))
 
-
-
-
-# #print(data)
-# data2 = json.dumps(generateJSON(data), indent=3)
-# encrypt = encryptSHA1('Argentina')
-# print(check_password_hash(encrypt, 'Argentina'))
-
-# #saveJSON(data2)
-
-#createDataFrame()
-
-'''
-#este me funciona para generar eel JSOn y pasarlo a un documento
-response_json = json.loads(data)
-response_json = json.dumps(response_json, indent=3)
-print(response_json)
-'''
-# import time
-
-# start = time.time()
-
-
-
-# end = time.time()
-
-# print(format(end-start))
 
 if __name__ == '__main__':
    main()
