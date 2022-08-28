@@ -1,8 +1,10 @@
+from multiprocessing import connection
 import time
 import requests
 from werkzeug.security import generate_password_hash, check_password_hash
 import json
 import pandas as pd
+import sqlite3
 
 #get data
 def getData(url):
@@ -36,10 +38,6 @@ def keys(language):
       concat_lenguage += value + '-'
    return concat_lenguage
 
-#execution time
-def time():
-   pass
-
 #encrypt data whith sha1
 def encryptSHA1(language):
    encrypt = generate_password_hash(language, 'sha1')
@@ -59,9 +57,40 @@ def createDataFrame(data, time=time):
       aux += 1
    return df
 
-#save result
-def saveResult(data):
-   pass
+#create data base
+def create_data_base(data_base):
+   conection = sqlite3.connect(data_base)
+   try:
+      conection.execute('''
+                        CREATE TABLE time (
+                           id INTEGER primary key autoincrement,
+                           total TEXT,
+                           promedio TEXT,
+                           min TEXT,
+                           max TEXT)
+                        ''')
+      print('Data base created')
+   except sqlite3.OperationalError:
+      print('Table already exists')
+   conection.close()
+
+#save data base time operation
+def save_operation(data_base,data):
+   conection = sqlite3.connect(data_base)
+   try:
+      conection.execute('INSERT INTO time (total, promedio, min, max) VALUES (?, ?, ?, ?)', (data['total'], data['promedio'], data['min'], data['max']))
+      conection.commit()
+   except sqlite3.OperationalError as e:
+      print('Error', e)
+   conection.close()
+
+#get data time sqlite
+def get_data_time(data_base):
+   conection = sqlite3.connect(data_base)
+   cursor = conection.execute('SELECT total, promedio, min, max FROM time')
+   for i in cursor:
+      print(i) # -> (total, promedio, min, max)
+   conection.close()
 
 #save json
 def saveJSON(data):
@@ -90,8 +119,11 @@ def main():
    data = getData('https://restcountries.com/v3.1/all')
    data_generate = generateJSON(data)
    print(createDataFrame(data_generate))
-   print(operaciones(data_generate))
+   time_operation = operaciones(data_generate)
    saveJSON(json.dumps(data_generate, indent=2))
+   create_data_base('data.db')
+   save_operation('data.db', time_operation)
+   print(get_data_time('data.db'))
 
 
 if __name__ == '__main__':
