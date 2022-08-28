@@ -123,7 +123,7 @@ def main():
    saveJSON(json.dumps(data_generate, indent=2))
    create_data_base('data.db')
    save_operation('data.db', time_operation)
-   print(get_data_time('data.db'))
+   get_data_time('data.db')
 
 
 if __name__ == '__main__':
